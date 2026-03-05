@@ -35,7 +35,6 @@ We want KittyTune to be accessible to everyone. The easiest way to add a new lan
 
 **Current contributors:**
 • **French & English:** [alananasss](https://github.com/alan7383)
-• **Hungarian:** [mattdotcat](https://t.me/b37246)
 
 ★ **Want to see your name here?** Help us translate KittyTune into your native language!
 
